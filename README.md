@@ -34,8 +34,8 @@ A desktop application that allows you to transcribe speech to text using OpenAI'
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/text-creator.git
-   cd text-creator
+   git clone https://github.com/Romix2017/text_creator.git
+   cd text_creator
    ```
 
 2. (Optional) Create a virtual environment:
