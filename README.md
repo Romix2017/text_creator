@@ -188,7 +188,7 @@ Configuration is stored in `text_creator_sensitive.json` located in the applicat
 
 4. Add a remote repository (if you've created one):
    ```
-   git remote add origin https://github.com/your-username/text-creator.git
+   git remote add origin https://github.com/Romix2017/text_creator.git
    git branch -M main
    git push -u origin main
    ```
